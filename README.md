@@ -51,5 +51,9 @@ To analyze the sales performance of Blinkit (India's last-minute delivery app) a
 
 9. Test & Publish
 - Verified all visuals and filters work correctly. Saved and exported the final dashboard.
+- 
+## Dashboard
+
+![Screenshot (506)](https://github.com/user-attachments/assets/5cc04b9d-b180-4fbe-bd7d-7f7bd0acd684)
 
 
