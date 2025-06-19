@@ -55,5 +55,15 @@ To analyze the sales performance of Blinkit (India's last-minute delivery app) a
 ## Dashboard
 
 ![Screenshot (506)](https://github.com/user-attachments/assets/5cc04b9d-b180-4fbe-bd7d-7f7bd0acd684)
+## Project-Insights
+This dashboard successfully summarizes Blinkit's operational and sales data, providing:
 
+- Instant visibility into sales trends
 
+- Region-wise performance comparisons
+
+- Product category profitability
+
+- Outlet effectiveness
+## Conclusion
+The Blinkit Sales Dashboard provides a powerful and interactive way to analyze the company’s performance across various product types, outlet categories, and customer preferences. By visualizing key metrics such as total sales, item count, outlet contribution, and fat content distribution, this dashboard helps uncover critical business insights.
